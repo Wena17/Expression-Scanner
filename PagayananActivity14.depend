@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610826278 source:c:\users\pagay\onedrive\desktop\school\2nd year\data structures & algorithm\program\pagayananactivity14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
